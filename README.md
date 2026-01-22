@@ -40,10 +40,6 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 
 ---
 
-## 📂 Projects
-
----
-
 ## 💼 Work Experience
 
 **Product Engineer – Tata Consultancy Services (CTO Organization)**  
