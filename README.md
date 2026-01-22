@@ -20,7 +20,7 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 - SQL  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Data Cleaning & Exploratory Data Analysis  
-- Advanced Excel (Pivot Tables)
+- Advanced Excel 
 
 **Programming & Development:**  
 - Java  
@@ -34,8 +34,8 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 
 **Tools & Platforms:**  
 - Microsoft Power BI  
-- PowerApps  
 - Figma
+- PowerApps
 - Git & GitHub  
 
 ---
