@@ -1,7 +1,9 @@
 # Hi, I'm Aditi Kulkarni 👋
 
-🎓 MS in Data Analytics Engineering @ Northeastern University  
+🎓 MS in Data Analytics Engineering @ Northeastern University 
+
 💼 Software Engineer (ex-TCS) 
+
 🚀 Seeking Data Analyst roles
 
 ---
@@ -20,7 +22,7 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 - SQL  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Data Cleaning & Exploratory Data Analysis  
-- Advanced Excel 
+- Excel 
 
 **Programming & Development:**  
 - Java  
@@ -42,7 +44,7 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 
 ## 💼 Work Experience
 
-**Product Engineer – Tata Consultancy Services (CTO Organization)**  
+**Software Engineer – Tata Consultancy Services (CTO Organization)**  
 *Aug 2023 – Jun 2025*
 
 - Developed research-oriented enterprise applications using PowerApps, Figma, Java, and TypeScript  
