@@ -1,7 +1,7 @@
 # Hi, I'm Aditi Kulkarni 👋
 
 🎓 MS in Data Analytics Engineering @ Northeastern University  
-💼 Product Engineer (ex-TCS) | Data & Analytics Focus  
+💼 Software Engineer (ex-TCS) 
 🚀 Seeking Data Analyst roles
 
 ---
@@ -16,7 +16,7 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 
 ## 🛠️ Technical Skills
 
-**Analytics & Data:**  
+**Data Analysis:**  
 - SQL  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Data Cleaning & Exploratory Data Analysis  
@@ -62,5 +62,5 @@ I enjoy working with SQL, Python, and data visualization tools to solve real-wor
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/aditi-kulkarni-137a2721b  
+- LinkedIn: https://www.linkedin.com/in/aditi-kulkarni0609
 - Email: kulkarni.aditiv@northeastern.edu
